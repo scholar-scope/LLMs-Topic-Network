@@ -6,6 +6,11 @@
 
   <a href="https://potent-twister-29f.notion.site/b0fc32542854456cbde923e0adb48845?v=e2d14d2ef0c848f5a1d5b71f9977d7c5&pvs=4"><img alt="Static Badge" src="https://img.shields.io/badge/TableOnNotion-gray"></a>
   </a>
+  
+<p align="center">
+LLM Topic Network is a project aimed at visualizing various research papers related to Large Language Models (LLMs) by grouping them into topics for enhanced comprehension and insight.
+</p>
+  
   <p align="center">
         We provide awesome papers and repos on very comprehensive topics as follows.
   </p>
